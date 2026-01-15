@@ -1,4 +1,4 @@
-! 广告拦截规则（2026-01-14更新）
+! 广告拦截规则（2026-01-15更新）
 @@||rdelivery.qq.com^$important
 @@||dns.weixin.qq.com.cn^$important
 @@||wetype.weixin.qq.com^$important
@@ -11,13 +11,9 @@
 @@||stars.shuqireader.com
 @@||v11-luna.douyinvod.com
 @@||opensdkapi.qidian.com
-||p3-ad-sign.byteimg.com
 ||is.snssdk.com
-||frontier.snssdk.com
 ||security.snssdk.co
-||zlink.ugsdk.cn
 ||p3-luna.douyinpic.com
-||mssdk.bytedance.com
 ||rtlog.zijieapi.com
 ||webcast-open.douyin.com
 ||frontier100-normal.zijieapi.com
@@ -29,7 +25,6 @@
 ||lf-reward-video.bytedcdn.com
 ||timon.zijieapi.com
 ||abtest-ch.snssdk.com
-||ad.zijieapi.com
 ||tnc0-aliec2.zijieapi.com
 ||szextshort.weixin.qq.com
 ||vod-luna.douyin.com
@@ -78,8 +73,6 @@
 ||applog.lc.quark.cn^$important
 ||adashx.m.taobao.com^$important
 ||access-open.quark.cn^$important
-||lf-cdn-tos.bytescm.com^$important
-||content-autofill.googleapis.com^$important
 ||puds.quark.cn^$important
 ||dsp-x.jd.com^$important
 ||v5-luna.douyinvod.com
@@ -88,13 +81,11 @@
 ||ks-livemate.pull.yximgs.com^$important
 ||ks-adaptive.pull.yximgs.com^$important
 ||ks-origin.pull.yximgs.com^$important
-||ks-pclivemate.pull.yximgs.com^$important
 ||ccd82680-dnsotls-ds.metric.gstatic.com^$important
 ||tx-rwk.pull.etoote.com^$important
 ||ali-rwk.pull.etoote.com^$important
 ||openacs4uc.m.taobao.com^$important
 ||sdk-config.tanx.com^$important
-||lf1-cdn-tos.bytegoofy.com^$important
 ||tunion-api.m.taobao.com^$important
 ||app.market.xiaomi.com^$important
 ||cdn.exp.xiaomi.com^$important
@@ -131,7 +122,6 @@
 ||pssn.alicdn.com^$important
 ||im-x.jd.com^$important
 ||h-adashx.ut.taobao.com^$important
-||loc.map.baidu.com^$important
 ||wn.pos.baidu.com^$important
 ||m.baidu.com^$important
 ||mobads-pre-config.bj.bcebos.com^$important
@@ -141,7 +131,6 @@
 ||openjmacs4uc.m.taobao.com^$important
 ||xlog.jd.com^$important
 ||content-produce-offine.quark.cn^$important
-||iflow-image.myquark.cn^$important
 @@||c13.shuqireader.com^$important
 ||gmscompliance-pa.googleapis.com^$important
 ||img.alicdn.com^$important
@@ -154,7 +143,6 @@
 ||usr-api.aiclk.com^$important
 ||tnc3-aliec2.zijieapi.com^$important
 ||tnc3-bjlgy.zijieapi.com^$important
-||s-adashx.ut.uc.cn^$important
 ||acs.m.taobao.com^$important
 ||zzd.sm.cn^$important
 ||ucan.25pp.com^$important
@@ -171,7 +159,6 @@
 ||et.tanx.com^$important
 ||yes-file.quark.cn^$important
 ||puds-down.uc.cn^$important
-||website-sub.uc.cn^$important
 ||bd-rwk.pull.etoote.com^$important
 ||bd-proxy.pull.yximgs.com^$important
 ||client.tv.uc.cn^$important
@@ -179,4 +166,47 @@
 ||v2btp2zpvrldh9s4sh48hxasnd7ru4mgj.mobgslb.tbcache.com^$important
 ||ctt-er.hnzkclouds.com^$important
 ||s2.zimgs.cn^$important
+||acs.m.taobao.com^
+||net-assistant.10046.xiaomimobile.com^$important
+||so.toutiao.com^$important
+||p3-sign.toutiaoimg.com^$important
+||zlink.toutiao.com^$important
+||partner.quark.cn^
+||pdds-cdn.quark.cn^$important
+||drama-play-sm.myquark.cn^$important
+@@||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
+@@||tpstelemetry.tencent.com^$important
+||p11-sign.douyinpic.com^$important
+||content-open.douyin.com^$important
+||mssdk.doubao.com^$important
+||jsb.snssdk.com^$important
+||api.ad.xiaomi.com^$important
+||sdk-log.partner.sm.cn
+||59.82.96.59
+||puds.ucweb.com
+||123.183.232.50
+||sdk-log.partner.sm.cn^$important
+||10.215.173.1^
+||api3-lf.qishui.com
+||security.snssdk.com
+||v5-se-zjyh-traffic-luna.douyinvod.com^$important
+||whoami.akamai.net^$important
+@@||c.viayoo.com
+@@||img-tailor.11222.cn^$important
+||s-adashx.ut.uc.cn^$important
+||website-sub.uc.cn^$important
+||iflow-image.myquark.cn^$important
+||ks-pclivemate.pull.yximgs.com^$important
+||p3-ad-sign.byteimg.com
+||zlink.ugsdk.cn
+||mssdk.bytedance.com
+||ad.zijieapi.com
+||frontier.snssdk.com
+||lf1-cdn-tos.bytegoofy.com^$important
+||lf-cdn-tos.bytescm.com^$important
+||content-autofill.googleapis.com^$important
+||loc.map.baidu.com^$important
+@@||c.viayoo.com^$important
+@@||v3-luna.douyinvod.com^$important
+@@||v26-luna.douyinvod.com^$important
 
