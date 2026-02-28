@@ -121,7 +121,6 @@
 ||pssn.alicdn.com^$important
 ||h-adashx.ut.taobao.com^$important
 ||wn.pos.baidu.com^$important
-||m.baidu.com^$important
 ||mobads-pre-config.bj.bcebos.com^$important
 ||feed-image.baidu.com^$important
 ||als.baidu.com^$important
@@ -287,7 +286,6 @@
 ||v3.gdt.qq.com^$important
 ||techain.baidu.com^$important
 ||9520117f-dnsotls-ds.metric.gstatic.com^$important
-||www.baidu.com^$important
 ||zyb-stats-1.zuoyebang.cc
 ||nlogtf.zuoyebang.com
 ||log.kuaiduizuoye.com
@@ -539,7 +537,6 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||d1jpirtmmz41g6.cloudfront.net^$important
 ||nd-static.bdstatic.com^$important
 ||mobileplugin.v.mitvos.com^$important
-||pan.baidu.com^$important
 ||xlab.baidu.com^$important
 ||staticwx.cdn.bcebos.com^$important
 ||code.bdstatic.com^$important
@@ -2327,4 +2324,14 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||xboxlive.com^$dnsrewrite=NOERROR;A;20.70.246.20                   
 # Last update at 2026-02-26 15:49:28 (Beijing Time)
 # Star me GitHub url: https://github.com/Potterli20/file/releases/download/github--dnstype
-# Hosts End 
+#自定义
+||test-malicious.com^
+||e7785523-9.sjxydc.com^$important
+@@||appi.qijizuopin.com^$important
+||bookbk.d.ireader.com^$important
+@@||shp.qpic.cn^$important
+||daigraphia.com^$important
+@@||read.xiaoshuo1-sm.com^$important
+@@||ut2.shuqistat.com^$important
+@@||www.baidu.com^$important
+@@||m.baidu.com^$important
