@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ! 广告拦截规则（2026-03-19 更新）
+=======
+! 广告拦截规则（2026-02-26 更新）
+>>>>>>> 7ee36df9e59c7ca356a1c7c8a78da1253ff918f4
 @@||rdelivery.qq.com^$important
 @@||dns.weixin.qq.com.cn^$important
 @@||wetype.weixin.qq.com^$important
@@ -119,6 +123,10 @@
 ||audid-api.taobao.com^$important
 ||pssn.alicdn.com^$important
 ||h-adashx.ut.taobao.com^$important
+<<<<<<< HEAD
+=======
+||wn.pos.baidu.com^$important
+>>>>>>> 7ee36df9e59c7ca356a1c7c8a78da1253ff918f4
 ||mobads-pre-config.bj.bcebos.com^$important
 ||openjmacs4uc.m.taobao.com^$important
 ||xlog.jd.com^$important
@@ -2329,8 +2337,12 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 @@||read.xiaoshuo1-sm.com^$important
 @@||ut2.shuqistat.com^$important
 @@||www.baidu.com^$important
+<<<<<<< HEAD
 @@||m.baidu.com^$important
 #美团神卷页面
 @@||s3plus.meituan.net^$important
 @@||gxh.material.qq.com^$important
 @@||nd-static.bdstatic.com^$important
+=======
+@@||m.baidu.com^$important
+>>>>>>> 7ee36df9e59c7ca356a1c7c8a78da1253ff918f4
