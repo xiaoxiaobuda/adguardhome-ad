@@ -1473,7 +1473,6 @@
 @@||hub5pn.wap.sandai.net^
 @@||hudong.alicdn.com^
 @@||hugelog.fcbox.com^
-@@||huichuan-mc.sm.cn^
 @@||huluxia.com^
 @@||humb.apple.com^$important
 @@||hwinfo1.zuimeitianqi.com^
