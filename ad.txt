@@ -2327,7 +2327,7 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||xboxlive.com^$dnsrewrite=NOERROR;A;20.70.246.20                   
 # Last update at 2026-02-26 15:49:28 (Beijing Time)
 # Star me GitHub url: https://github.com/Potterli20/file/releases/download/github--dnstype
-#自定义
+#3.24放行
 ||test-malicious.com^
 ||e7785523-9.sjxydc.com^$important
 @@||appi.qijizuopin.com^$important
@@ -2337,12 +2337,14 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 @@||read.xiaoshuo1-sm.com^$important
 @@||ut2.shuqistat.com^$important
 @@||www.baidu.com^$important
-<<<<<<< HEAD
 @@||m.baidu.com^$important
 #美团神卷页面
 @@||s3plus.meituan.net^$important
 @@||gxh.material.qq.com^$important
 @@||nd-static.bdstatic.com^$important
-=======
+#3.31更新
 @@||m.baidu.com^$important
->>>>>>> 7ee36df9e59c7ca356a1c7c8a78da1253ff918f4
+@@||img.alicdn.com^$important
+||huichuan.sm.cn^$important
+||huichuan-mc.sm.cn^$important
+||sdk-log.partner.sm.cn^$important
