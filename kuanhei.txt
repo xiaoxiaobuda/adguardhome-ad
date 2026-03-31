@@ -12876,7 +12876,7 @@
 @@||hub5pn.wap.sandai.net^
 @@||hudong.alicdn.com^
 @@||hugelog.fcbox.com^
-@@||huichuan-mc.sm.cn^
+||huichuan-mc.sm.cn^
 ||huichuan.sm.cn^
 @@||huluxia.com^
 @@||i.dell.com^
