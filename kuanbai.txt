@@ -2813,7 +2813,6 @@
 @@||skl.apple.com^$important
 @@||sky.vip.youku.com^
 @@||sl.hpplay.cn^
-@@||sm.cn^
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smartrobot-drcn.dbankcdn.com^
